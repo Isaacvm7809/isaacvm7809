@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 
 About me
-👋 Hi, I’m Isaac M Vásquez
-👀 I’m interested in Software Development
-🌱 I’m currently learning Angular
-💻 C# and Net Tech
-📫 isaacvm7809@gmail.com
+- 👋 Hi, I’m Isaac M Vásquez
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Angular
+- 💻 C# and Net Tech
+- 📫 isaacvm7809@gmail.com
