@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+About me
+- 👋 Hi, I’m Isaac M Vásquez
+- 👀 I’m interested in Software Development
+- 20y programming since QBasic times 
+- 🌱 I’m currently learning Angular
+- 💻 C# and Net Tech
+- 📫 isaacvm7809@gmail.com
+
+
 <!--
 **Isaacvm7809/isaacvm7809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -12,11 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-About me
-- 👋 Hi, I’m Isaac M Vásquez
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Angular
-- 💻 C# and Net Tech
-- 📫 isaacvm7809@gmail.com
