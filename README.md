@@ -4,7 +4,7 @@ About me
 - 👋 Hi, I’m Isaac M Vásquez
 - 👀 I’m interested in Software Development
 - 20y programming since QBasic times 
-- 🌱 I’m currently learning Angular
+- 🌱 Angular 17
 - 💻 C# and Net Tech
 - 📫 isaacvm7809@gmail.com
 
